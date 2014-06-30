@@ -3,7 +3,6 @@ Projekt-Strojno
 
 LDA i sLDA
 
-
 Sadržaj foldera LDA:<br>
 -osnovnu implementaciju LDA modela<br>
 -originalni README te implementacije<br>
@@ -13,12 +12,7 @@ Sadržaj foldera LDA:<br>
 Folder rezultati sadrži naučen model <br>
 Folder ispis top 10 u folderu rezultati sadrži najčešćih 10 riječi nekih tema nakon 0,5,20 i 48 iteracija.
 
-
 Nije potrebno korisiti vanjske biblioteke. Pokretanje i zadavanje parametara je opisano u README. 
-
-Folder rezultati sadrži naučen model <br>
-Folder ispis top 10 u folderu rezultati sadrži najčešćih 10 riječi nekih tema nakon 0,5,20 i 48 iteracija.
-
 
 Sadržaj foldera SLDA:<br>
 -implementacija nadziranog LDA<br>
