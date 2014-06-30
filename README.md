@@ -1,6 +1,13 @@
 Strojno učenje - Projekt - LDA i sLDA
 ================================================================================
 
+Folder *Clanak* sadrži pdf dokument kojim smo opisali naš rad na projektu. Također,
+u njemu se nalazi i izvorni kod koji ga generira.
+
+--------------------------------------------------------------------------------
+
+Unutar foldera *Source* se nalazi arhiva koja ima sljedeću strukturu.
+
 Sadržaj foldera *LDA*:<br>
 - osnovna implementaciju LDA modela<br>
 - originalni README te implementacije<br>
