@@ -1,4 +1,4 @@
-Strojno ucenje - Projekt - LDA i sLDA
+Strojno učenje - Projekt - LDA i sLDA
 ================================================================================
 
 Sadržaj foldera *LDA*:<br>
